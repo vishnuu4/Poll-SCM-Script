@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>VISHNU SHOPPING WEBSITE</title>
+    <title>Vishnu Shopping Website</title>
     <link rel="stylesheet" href="style.css">
 <style>
 	*{

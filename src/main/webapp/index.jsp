@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Vishnu shopping webapp</title>
+    <title>Vishnu shopping webapps</title>
     <link rel="stylesheet" href="style.css">
 <style>
 	*{

@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>JaveedWebsite</title>
+    <title>Vishnu Shopping website</title>
     <link rel="stylesheet" href="style.css">
 <style>
 	*{
